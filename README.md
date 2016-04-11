@@ -1,4 +1,4 @@
-Motion [ ![Download](https://api.bintray.com/packages/nvanbenschoten/maven/com.nvanbenschoten.motion%3Alibrary/images/download.svg) ](https://bintray.com/nvanbenschoten/maven/com.nvanbenschoten.motion%3Alibrary/_latestVersion)
+Motion [ ![Download](https://api.bintray.com/packages/donalddu/maven/com.dhy.xintent/images/download.svg) ](https://bintray.com/nvanbenschoten/maven/com.nvanbenschoten.motion%3Alibrary/_latestVersion)
 ======
 A minimal example build with Docker and http://sparkjava.com/
 
